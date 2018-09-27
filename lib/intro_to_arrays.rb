@@ -19,5 +19,5 @@ def last_element(my_array)
 end
 
 def first_element_with_array_methods(my_array)
-  return my_array.last
+  return my_array.first
 end 
