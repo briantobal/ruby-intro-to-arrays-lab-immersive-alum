@@ -9,3 +9,7 @@ end
 def first_element(my_array)
   return my_array[0]
 end 
+
+def third_element(my_array)
+  return my_array[2]
+end 
