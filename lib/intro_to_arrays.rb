@@ -13,3 +13,7 @@ end
 def third_element(my_array)
   return my_array[2]
 end 
+
+def last_element(my_array)
+  return my_array[-1]
+end
